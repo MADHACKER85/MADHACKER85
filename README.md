@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthivasan Krishnamoorthy</h1>
 <h3 align="center">A passionate Software Developer, Data Analyst and a CyberSecurity trainee from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhacker85&label=Profile%20views&color=0e75b6&style=flat" alt="madhacker85" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhacker85" alt="madhacker85" /></a> </p>
 
 - 🔭 I’m currently working on ["FirstPick" a Fullstack Ecommerce website](https://github.com/Malarselvimarimuthu/firstpick-project)
@@ -37,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhacker85&show_icons=true&locale=en&layout=compact" alt="madhacker85" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhacker85&show_icons=true&locale=en" alt="madhacker85" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhacker85&" alt="madhacker85" /></p>

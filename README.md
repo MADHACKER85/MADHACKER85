@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhacker85" alt="madhacker85" /></a> </p>
 
-- 🔭 I’m currently working on ["FirstPick" a Fullstack Ecommerce website](https://github.com/Malarselvimarimuthu/firstpick-project)
+- 🔭 I’m currently working on **OSINT Projects (Digital Footprint Analyzer & NexTrace Dashboard)** and a **[Data Wipe Tool](https://github.com/MADHACKER85/Data_Wipe_Tool)**
 
-- 🌱 I’m currently learning **penetration testing,security assessment**
+- 🌱 I’m currently learning **penetration testing, security assessment, and mobile app development (React Native)**
 
-- 👯 I’m looking to collaborate on [Stress detection using Ecg signals](https://github.com/MADHACKER85/stress-detection-using-ECG-signal)
+- 👯 I’m looking to collaborate on **Open Source Intelligence (OSINT) and Cybersecurity tools**
 
-- 🤝 I’m looking for help with **hashed password crackers**
+- 🤝 I’m looking for help with **hashed password crackers and enhancing my Data Wipe Tool's QR Verification**
 
 - 👨‍💻 All of my projects are available at [https://keerthivasank.netlify.app/](https://keerthivasank.netlify.app/)
 

@@ -4,7 +4,7 @@
 💫 About Me:
 
 
-🔭 I’m currently working on OSINT Projects (Digital Footprint Analyzer & NexTrace Dashboard) and a Data Wipe Tool<br><br>🌱 I’m currently learning penetration testing, security assessment, and mobile app development (React Native)<br><br>👯 I’m looking to collaborate on Open Source Intelligence (OSINT) and Cybersecurity tools<br><br>🤝 I’m looking for help with hashed password crackers and enhancing my Data Wipe Tool's QR Verification<br><br>👨‍💻 All of my projects are available at https://keerthivasank.netlify.app/<br><br>💬 Ask me about Frontend,linux,powerBI<br><br>📫 How to reach me kkvs5699@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/11OMEgmIgE3jVyOSNE6sc3nb082lBvnXC<br><br>⚡ Fun fact i think im impatient
+🔭 I’m currently working on OSINT Projects (Digital Footprint Analyzer & NexTrace Dashboard) and a Data Wipe Tool<br><br>🌱 I’m currently learning penetration testing, security assessment, and mobile app development (React Native)<br><br>👯 I’m looking to collaborate on Open Source Intelligence (OSINT) and Cybersecurity tools<br><br>🤝 I’m looking for help with hashed password crackers and enhancing my Data Wipe Tool's QR Verification<br><br>👨‍💻 All of my projects are available at https://keerthivasan.tech/<br><br>💬 Ask me about Frontend,linux,powerBI<br><br>📫 How to reach me kkvs5699@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/11OMEgmIgE3jVyOSNE6sc3nb082lBvnXC<br><br>⚡ Fun fact i think im impatient
 
 
 ## 🌐 Socials:

@@ -82,15 +82,7 @@
 * **Data Science & ML**: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch
 * **Hosting & Tools**: Git, GitHub, GitLab, Vercel, Netlify, Canva, Power BI, Raspberry Pi
 
----
 
-### 📊 GitHub Observability Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MADHACKER85&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="MADHACKER85 stats" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=MADHACKER85&theme=dark&hide_border=false" alt="MADHACKER85 streak" /><br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MADHACKER85&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="MADHACKER85 top langs" />
-</p>
 
 <p align="center">
   <sub><b>Profile visitor count:</b><br/>

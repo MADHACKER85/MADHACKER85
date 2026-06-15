@@ -1,28 +1,105 @@
 <h1 align="center">Hi 👋, I'm Keerthivasan Krishnamoorthy</h1>
-<h3 align="center">A passionate Software Developer, Data Analyst and a CyberSecurity trainee from India</h3>
+<h3 align="center">A passionate Software Developer, Data Analyst and a CyberSecurity Trainee from India</h3>
 
-💫 About Me:
-
-
-🔭 I’m currently working on OSINT Projects (Digital Footprint Analyzer & NexTrace Dashboard) and a Data Wipe Tool<br><br>🌱 I’m currently learning penetration testing, security assessment, and mobile app development (React Native)<br><br>👯 I’m looking to collaborate on Open Source Intelligence (OSINT) and Cybersecurity tools<br><br>🤝 I’m looking for help with hashed password crackers and enhancing my Data Wipe Tool's QR Verification<br><br>👨‍💻 All of my projects are available at https://keerthivasan.tech/<br><br>💬 Ask me about Frontend,linux,powerBI<br><br>📫 How to reach me kkvs5699@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/11OMEgmIgE3jVyOSNE6sc3nb082lBvnXC<br><br>⚡ Fun fact i think im impatient
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthivasank85) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kkvs5699@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MADHACKER85&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MADHACKER85&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MADHACKER85&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="center">
+  <a href="https://keerthivasan.tech/" target="_blank">🌐 Portfolio Website</a> •
+  <a href="https://linkedin.com/in/keerthivasank85" target="_blank">💼 LinkedIn Profile</a> •
+  <a href="mailto:kkvs5699@gmail.com">📫 Contact Me</a> •
+  <a href="https://drive.google.com/drive/folders/11OMEgmIgE3jVyOSNE6sc3nb082lBvnXC" target="_blank">📄 Résumé</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MADHACKER85&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+* 🔭 **Currently Working On**: 
+  * **RHEL Firewall Zone & Rich Rule Designer**: Visual interactive tool for Red Hat Enterprise Linux firewalld setups.
+  * **CyberGuard Port Auditor**: Real-time port auditor/scanner featuring process terminator logic and a 3D HTML5 cybermap globe.
+  * **IT Infrastructure Observability Stack**: Containerized node-exporter, Prometheus, Alertmanager, and Grafana pipeline.
+* 🌱 **Currently Learning**: Penetration testing, vulnerability assessments, security configurations, and React Native mobile development.
+* 👯 **Looking to Collaborate On**: Open Source Intelligence (OSINT) systems and offensive/defensive cybersecurity tools.
+* 🤝 **Looking for Support With**: Secure cryptographic hashing algorithms and expanding active threat-hunting telemetry.
+* 💬 **Ask me about**: Linux administration, RHEL firewalls, network monitoring, Power BI analytics, and frontend development.
+* ⚡ **Fun Fact**: I like building secure, high-performance systems from scratch—and I can be quite impatient when wait times exceed 2 seconds!
+
+---
+
+### 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🛡️ <a href="https://github.com/MADHACKER85/rhel-firewalld-designer">RHEL Firewalld Zone & Rich Rule Designer</a></h4>
+      <p>An interactive visual configure utility for network zones, allowed services, and complex Rich Rules on Red Hat Enterprise Linux. Generates real-time terminal <code>firewall-cmd</code> instructions, XML configurations, and bash setup scripts. Built with zero external dependencies for secure, air-gapped secure systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🌐 <a href="https://github.com/MADHACKER85/cyberguard-port-auditor">CyberGuard Port Auditor</a></h4>
+      <p>A real-time network scanner and security auditor. Inspects active network connections, maps them to local Process IDs, and allows direct connection termination. Features a stunning Kaspersky-style 3D interactive rotating cybermap showing live-simulated cyber threats using HTML5 Canvas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5--Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/System--Auditing-FF5555?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📊 <a href="https://github.com/MADHACKER85/infra-monitoring-stack">IT Observability Infrastructure Stack</a></h4>
+      <p>Containerized monitoring and alert stack provisioned with Docker Compose. Collects system metric data via Node Exporter, processes database queries with Prometheus, triggers alerts with Alertmanager, and visualizes system stats with pre-provisioned Grafana dashboards. Includes load-simulators.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🔍 <a href="https://github.com/MADHACKER85/NexTrace-OSINT-Dashboard">NexTrace OSINT & Footprint Analyzer</a></h4>
+      <p>An intelligence gathering dashboard and lookup suite designed to query and aggregate open-source data. Analyzes digital footprints, profiles target entities across social media platforms, maps geo-coordinates, and evaluates public database leaks in a clean visualization platform.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OSINT-FF9900?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data--Analysis-4488FF?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack & Tools
+
+* **Programming & Scripting**: C, Python, PowerShell, Bash, JavaScript, Next.js, Node.js, Express.js
+* **Databases & Backends**: MySQL, PostgreSQL, Supabase, Firebase Firestore, Microsoft SQL Server
+* **Monitoring & Containers**: Docker, Docker Compose, Prometheus, Grafana, Alertmanager, Node Exporter, Apache Hadoop
+* **Data Science & ML**: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, PyTorch
+* **Hosting & Tools**: Git, GitHub, GitLab, Vercel, Netlify, Canva, Power BI, Raspberry Pi
+
+---
+
+### 📊 GitHub Observability Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=MADHACKER85&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="MADHACKER85 stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=MADHACKER85&theme=dark&hide_border=false" alt="MADHACKER85 streak" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MADHACKER85&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="MADHACKER85 top langs" />
+</p>
+
+<p align="center">
+  <sub><b>Profile visitor count:</b><br/>
+  <img src="https://komarev.com/ghpvc/?username=MADHACKER85&icon=0&color=0" alt="visitor count" /></sub>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>

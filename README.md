@@ -5,7 +5,7 @@
   <a href="https://keerthivasan.tech/" target="_blank">🌐 Portfolio Website</a> •
   <a href="https://linkedin.com/in/keerthivasank85" target="_blank">💼 LinkedIn Profile</a> •
   <a href="mailto:kkvs5699@gmail.com">📫 Contact Me</a> •
-  <a href="https://drive.google.com/drive/folders/11OMEgmIgE3jVyOSNE6sc3nb082lBvnXC" target="_blank">📄 Résumé</a>
+  <a href="" target="_blank">📄 Résumé</a>
 </p>
 
 ---

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keerthivasan Krishnamoorthy</h1>
-<h3 align="center">A passionate Software Developer, Data Analyst and a CyberSecurity Trainee from India</h3>
+<h3 align="center">A passionate System Administrator(IT-Infra) and a NetworK Engineer from India</h3>
 
 <p align="center">
   <a href="https://keerthivasan.tech/" target="_blank">🌐 Portfolio Website</a> •
   <a href="https://linkedin.com/in/keerthivasank85" target="_blank">💼 LinkedIn Profile</a> •
   <a href="mailto:kkvs5699@gmail.com">📫 Contact Me</a> •
-  <a href="" target="_blank">📄 Résumé</a>
+  <a href="" target="_blank"></a>
 </p>
 
 ---
